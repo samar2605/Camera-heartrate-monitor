@@ -24,7 +24,7 @@ void loop() {
       wave=analogRead(A0);
       Serial.println(wave);
 
-       if(millis()-currentTime>=6000){
+       if(millis()-currentTime>=10000){
         currentTime=millis();
         if(millis()-firstTime>=60000){
           Serial.print("Heart rate(in bpm):");
