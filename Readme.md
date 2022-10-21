@@ -10,4 +10,7 @@
 
 **Semester and Year**: Fifth Semester, Aug-Nov 2022.
 
-**Instructor**: [Dr. Nagarajan Ganapathy ]
+**Instructor**: Dr. Nagarajan Ganapathy 
+## Team Details
+**Team Members**: Ameya Chatur, Samar Singhai, Syed Saqib Habeeb, Vidya Ajay
+###### All the members have equally contributed towards achieving the goal of the project. 
